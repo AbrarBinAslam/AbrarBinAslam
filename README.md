@@ -1,22 +1,27 @@
-# ABRAR BIN ASLAM
+# Abrar Bin Aslam
+**SailPoint ISC Engineer | Identity Governance (IGA) | IAM**
 
-Security Engineer passionate about enterprise cybersecurity, Identity Security, Zero Trust, Security Operations, and building practical hands-on labs.
+4+ years in enterprise IAM, 3 of them in SailPoint Identity Security
+Cloud engineering for a US healthcare client. These repositories are my
+self-study labs around that work: directories, identity security,
+governance and automation. All content is original and contains no
+client or employer data.
 
----
+## Labs
+| Repository | What it covers |
+|---|---|
+| [Identity-Governance-Lab](https://github.com/AbrarBinAslam/Identity-Governance-Lab) | Policies, processes and controls for the right access at the right time |
+| [Enterprise-Active-Directory-Lab](https://github.com/AbrarBinAslam/Enterprise-Active-Directory-Lab) | AD fundamentals, administration, identity security and detection |
+| [Microsoft-Entra-ID-Lab](https://github.com/AbrarBinAslam/Microsoft-Entra-ID-Lab) | Entra ID authentication, MFA, hybrid identity and Conditional Access |
+| [Identity-Attack-Lab](https://github.com/AbrarBinAslam/Identity-Attack-Lab) | Identity-based attack paths, detection and defense |
 
-## 👋 Welcome
+## Tools I work with
+SailPoint ISC, Workday, Active Directory, Microsoft Entra ID,
+ServiceNow, REST APIs, Postman, JSON, OAuth 2.0, LDAP
 
-Welcome to my GitHub portfolio.
+**Contact:** [LinkedIn](https://linkedin.com/in/abrar-bin-aslam)
 
-After several years working in Identity & Access Management (IAM), I decided to create this portfolio to deepen my cybersecurity knowledge through practical, enterprise-focused projects.
-
-Every repository is built from first principles with an emphasis on hands-on learning, clear documentation, and real-world scenarios. My goal is not only to strengthen my own understanding but also to create resources that others can learn from.
-
-This portfolio is developed under **Haris Trust**, a personal initiative dedicated to building practical cybersecurity knowledge and promoting the principles of trust, security, and continuous learning.
-
-> **Haris Trust**
->
-> *Guarding Digital Trust.*
+*Portfolio initiative: Haris Trust. Guarding Digital Trust.*
 ---
 <!--
 **AbrarBinAslam/AbrarBinAslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
